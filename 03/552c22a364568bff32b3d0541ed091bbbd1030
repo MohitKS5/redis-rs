@@ -1,0 +1,59 @@
+redis/src/tls.rs
+  s_498e405637d29d::t_b6538965907b64 3,5,7,95,154,160-169,180,188,205,250-252,260
+  s_498e405637d29d::t_9e80e6a3636cac 151-153
+  s_498e405637d29d::t_7b48d7ea2bb493 190,206,242
+  s_498e405637d29d::t_2809b37955d4a1 170-179,181-187,189,191-204,207-241,243-249
+redis/src/lib.rs
+  s_498e405637d29d::t_216ebce3f35049 818,821-825
+redis/src/connection.rs
+  s_498e405637d29d::t_3fb777349f41f2 973-974
+  s_498e405637d29d::t_f87896b3e0fa00 46
+  s_498e405637d29d::t_077d25fc6a39b3 67
+  s_498e405637d29d::t_a00714ddc27ebe 28
+  s_498e405637d29d::t_8a4d6b6e1cedb6 56
+  s_498e405637d29d::t_ad68fa10d3e14c 259
+  s_498e405637d29d::t_3113c54bd09f46 258
+  s_498e405637d29d::t_1f3d2ea12e6b02 47,57,62-66,68-105
+  s_498e405637d29d::t_c1111fc4c9ce1d 106-107
+redis/src/aio/tokio.rs
+  s_498e405637d29d::t_fb83fc1ae5e213 16
+  s_498e405637d29d::t_d4c8cea97f1a42 127-128,130
+redis/build.rs
+  s_498e405637d29d::t_3185cdb7ff8d33 1-23
+redis/src/client.rs
+  s_498e405637d29d::t_74e8d86cce0896 18
+  s_498e405637d29d::t_f5561cb3e97b08 162
+redis/src/types.rs
+  s_498e405637d29d::t_0cbc84eeadc799 30-35
+redis/src/cluster_handling/client.rs
+  s_498e405637d29d::t_26cb4639e14ff9 335
+  s_498e405637d29d::t_592b7a41737c58 334
+redis/src/aio/smol.rs
+  s_498e405637d29d::t_04d49e2b4457ec 16
+  s_498e405637d29d::t_2a45fdfd3b70b6 190-193
+  s_e037893e2310b3::t_df64d1282a0273 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "03552c22a364568bff32b3d0541ed091bbbd1030",
+  "prompts": {},
+  "sessions": {
+    "s_498e405637d29d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e0435cf-4eb8-4a10-99d7-c52b9209ab34",
+        "model": "claude-opus-5"
+      },
+      "human_author": "mohsingh <mohsingh@paloaltonetworks.com>"
+    },
+    "s_e037893e2310b3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "81940cff-515c-4c18-9720-662721260783",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "mohsingh <mohsingh@paloaltonetworks.com>"
+    }
+  }
+}
