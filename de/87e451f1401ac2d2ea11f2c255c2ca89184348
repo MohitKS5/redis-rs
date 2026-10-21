@@ -1,0 +1,28 @@
+redis/tests/support/mod.rs
+  s_498e405637d29d::t_bb89cc006fb209 168
+  s_498e405637d29d::t_14cb3cdd961893 571
+  s_498e405637d29d::t_5c811ec556ab71 483
+  s_498e405637d29d::t_3640e331384614 13
+  s_498e405637d29d::t_a4d166751a39f0 22
+  s_498e405637d29d::t_973732266afe89 512,524
+redis/src/cluster_handling/client.rs
+  s_498e405637d29d::t_32b5b7a9a08894 636-639
+redis/tests/test_async.rs
+  s_498e405637d29d::t_7984243c9b24db 1653
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "de87e451f1401ac2d2ea11f2c255c2ca89184348",
+  "prompts": {},
+  "sessions": {
+    "s_498e405637d29d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e0435cf-4eb8-4a10-99d7-c52b9209ab34",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "mohsingh <mohsingh@paloaltonetworks.com>"
+    }
+  }
+}
