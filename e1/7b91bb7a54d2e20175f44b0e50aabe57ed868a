@@ -1,0 +1,23 @@
+redis/tests/support/cluster.rs
+  s_498e405637d29d::t_af4dce25eaf335 42
+redis/tests/test_cluster_async.rs
+  s_498e405637d29d::t_1d9aedc9ccf0a7 499
+redis/tests/test_cluster.rs
+  s_498e405637d29d::t_9272e7aad2cc4b 122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "e17b91bb7a54d2e20175f44b0e50aabe57ed868a",
+  "prompts": {},
+  "sessions": {
+    "s_498e405637d29d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e0435cf-4eb8-4a10-99d7-c52b9209ab34",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "mohsingh <mohsingh@paloaltonetworks.com>"
+    }
+  }
+}
