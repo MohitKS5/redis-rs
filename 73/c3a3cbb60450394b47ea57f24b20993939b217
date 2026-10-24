@@ -1,0 +1,25 @@
+redis/src/cluster_handling/client.rs
+  s_498e405637d29d::t_12fbd23b0a1bdd 132
+  s_498e405637d29d::t_d05697cb4c9df6 450-451
+  s_498e405637d29d::t_8abd3c6a473be1 54
+  s_498e405637d29d::t_9055c0ad35323b 90
+  s_498e405637d29d::t_dea9cf0b3a1193 317,320
+  s_498e405637d29d::t_36bf6395aff845 635
+  s_498e405637d29d::t_fa567beee9da51 42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "73c3a3cbb60450394b47ea57f24b20993939b217",
+  "prompts": {},
+  "sessions": {
+    "s_498e405637d29d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e0435cf-4eb8-4a10-99d7-c52b9209ab34",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "mohsingh <mohsingh@paloaltonetworks.com>"
+    }
+  }
+}
